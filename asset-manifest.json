@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/axie-app/static/css/main.19762204.chunk.css",
+    "main.js": "/axie-app/static/js/main.d00d96e3.chunk.js",
+    "main.js.map": "/axie-app/static/js/main.d00d96e3.chunk.js.map",
+    "runtime-main.js": "/axie-app/static/js/runtime-main.2d90fa3f.js",
+    "runtime-main.js.map": "/axie-app/static/js/runtime-main.2d90fa3f.js.map",
+    "static/js/2.072942e7.chunk.js": "/axie-app/static/js/2.072942e7.chunk.js",
+    "static/js/2.072942e7.chunk.js.map": "/axie-app/static/js/2.072942e7.chunk.js.map",
+    "static/js/3.8c768265.chunk.js": "/axie-app/static/js/3.8c768265.chunk.js",
+    "static/js/3.8c768265.chunk.js.map": "/axie-app/static/js/3.8c768265.chunk.js.map",
+    "index.html": "/axie-app/index.html",
+    "static/css/main.19762204.chunk.css.map": "/axie-app/static/css/main.19762204.chunk.css.map",
+    "static/js/2.072942e7.chunk.js.LICENSE.txt": "/axie-app/static/js/2.072942e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d90fa3f.js",
+    "static/js/2.072942e7.chunk.js",
+    "static/css/main.19762204.chunk.css",
+    "static/js/main.d00d96e3.chunk.js"
+  ]
+}
